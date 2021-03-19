@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/govern.dev.sarcophagus.io/static/css/main.18904562.chunk.css",
-    "main.js": "/govern.dev.sarcophagus.io/static/js/main.c13d999f.chunk.js",
-    "main.js.map": "/govern.dev.sarcophagus.io/static/js/main.c13d999f.chunk.js.map",
-    "runtime-main.js": "/govern.dev.sarcophagus.io/static/js/runtime-main.a846fdfb.js",
-    "runtime-main.js.map": "/govern.dev.sarcophagus.io/static/js/runtime-main.a846fdfb.js.map",
-    "static/css/2.8408bc14.chunk.css": "/govern.dev.sarcophagus.io/static/css/2.8408bc14.chunk.css",
-    "static/js/2.17995556.chunk.js": "/govern.dev.sarcophagus.io/static/js/2.17995556.chunk.js",
-    "static/js/2.17995556.chunk.js.map": "/govern.dev.sarcophagus.io/static/js/2.17995556.chunk.js.map",
-    "static/js/3.aaeefe56.chunk.js": "/govern.dev.sarcophagus.io/static/js/3.aaeefe56.chunk.js",
-    "static/js/3.aaeefe56.chunk.js.map": "/govern.dev.sarcophagus.io/static/js/3.aaeefe56.chunk.js.map",
-    "index.html": "/govern.dev.sarcophagus.io/index.html",
-    "static/css/2.8408bc14.chunk.css.map": "/govern.dev.sarcophagus.io/static/css/2.8408bc14.chunk.css.map",
-    "static/css/main.18904562.chunk.css.map": "/govern.dev.sarcophagus.io/static/css/main.18904562.chunk.css.map",
-    "static/js/2.17995556.chunk.js.LICENSE.txt": "/govern.dev.sarcophagus.io/static/js/2.17995556.chunk.js.LICENSE.txt",
-    "static/media/icon.081a5d9a.svg": "/govern.dev.sarcophagus.io/static/media/icon.081a5d9a.svg",
-    "static/media/logo.46d0239c.png": "/govern.dev.sarcophagus.io/static/media/logo.46d0239c.png",
-    "static/media/index.css": "/govern.dev.sarcophagus.io/static/media/roboto-mono-v12-latin-regular.535bc89d.woff2",
-    "static/media/wallet.7d4fae45.svg": "/govern.dev.sarcophagus.io/static/media/wallet.7d4fae45.svg"
+    "main.css": "/static/css/main.19fbfa22.chunk.css",
+    "main.js": "/static/js/main.b8a9c1b1.chunk.js",
+    "main.js.map": "/static/js/main.b8a9c1b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa76f74b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa76f74b.js.map",
+    "static/css/2.8408bc14.chunk.css": "/static/css/2.8408bc14.chunk.css",
+    "static/js/2.6ce063f8.chunk.js": "/static/js/2.6ce063f8.chunk.js",
+    "static/js/2.6ce063f8.chunk.js.map": "/static/js/2.6ce063f8.chunk.js.map",
+    "static/js/3.aaeefe56.chunk.js": "/static/js/3.aaeefe56.chunk.js",
+    "static/js/3.aaeefe56.chunk.js.map": "/static/js/3.aaeefe56.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8408bc14.chunk.css.map": "/static/css/2.8408bc14.chunk.css.map",
+    "static/css/main.19fbfa22.chunk.css.map": "/static/css/main.19fbfa22.chunk.css.map",
+    "static/js/2.6ce063f8.chunk.js.LICENSE.txt": "/static/js/2.6ce063f8.chunk.js.LICENSE.txt",
+    "static/media/icon.081a5d9a.svg": "/static/media/icon.081a5d9a.svg",
+    "static/media/logo.46d0239c.png": "/static/media/logo.46d0239c.png",
+    "static/media/index.css": "/static/media/roboto-mono-v12-latin-regular.535bc89d.woff2",
+    "static/media/wallet.7d4fae45.svg": "/static/media/wallet.7d4fae45.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a846fdfb.js",
+    "static/js/runtime-main.fa76f74b.js",
     "static/css/2.8408bc14.chunk.css",
-    "static/js/2.17995556.chunk.js",
-    "static/css/main.18904562.chunk.css",
-    "static/js/main.c13d999f.chunk.js"
+    "static/js/2.6ce063f8.chunk.js",
+    "static/css/main.19fbfa22.chunk.css",
+    "static/js/main.b8a9c1b1.chunk.js"
   ]
 }
