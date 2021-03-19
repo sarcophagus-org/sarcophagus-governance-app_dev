@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/govern.dev.sarcophagus.io/static/css/main.18904562.chunk.css",
-    "main.js": "/govern.dev.sarcophagus.io/static/js/main.c15ca325.chunk.js",
-    "main.js.map": "/govern.dev.sarcophagus.io/static/js/main.c15ca325.chunk.js.map",
+    "main.js": "/govern.dev.sarcophagus.io/static/js/main.e34aad1a.chunk.js",
+    "main.js.map": "/govern.dev.sarcophagus.io/static/js/main.e34aad1a.chunk.js.map",
     "runtime-main.js": "/govern.dev.sarcophagus.io/static/js/runtime-main.a846fdfb.js",
     "runtime-main.js.map": "/govern.dev.sarcophagus.io/static/js/runtime-main.a846fdfb.js.map",
     "static/css/2.8408bc14.chunk.css": "/govern.dev.sarcophagus.io/static/css/2.8408bc14.chunk.css",
-    "static/js/2.e1f1edfb.chunk.js": "/govern.dev.sarcophagus.io/static/js/2.e1f1edfb.chunk.js",
-    "static/js/2.e1f1edfb.chunk.js.map": "/govern.dev.sarcophagus.io/static/js/2.e1f1edfb.chunk.js.map",
+    "static/js/2.f3a6bb0f.chunk.js": "/govern.dev.sarcophagus.io/static/js/2.f3a6bb0f.chunk.js",
+    "static/js/2.f3a6bb0f.chunk.js.map": "/govern.dev.sarcophagus.io/static/js/2.f3a6bb0f.chunk.js.map",
     "static/js/3.aaeefe56.chunk.js": "/govern.dev.sarcophagus.io/static/js/3.aaeefe56.chunk.js",
     "static/js/3.aaeefe56.chunk.js.map": "/govern.dev.sarcophagus.io/static/js/3.aaeefe56.chunk.js.map",
     "index.html": "/govern.dev.sarcophagus.io/index.html",
     "static/css/2.8408bc14.chunk.css.map": "/govern.dev.sarcophagus.io/static/css/2.8408bc14.chunk.css.map",
     "static/css/main.18904562.chunk.css.map": "/govern.dev.sarcophagus.io/static/css/main.18904562.chunk.css.map",
-    "static/js/2.e1f1edfb.chunk.js.LICENSE.txt": "/govern.dev.sarcophagus.io/static/js/2.e1f1edfb.chunk.js.LICENSE.txt",
+    "static/js/2.f3a6bb0f.chunk.js.LICENSE.txt": "/govern.dev.sarcophagus.io/static/js/2.f3a6bb0f.chunk.js.LICENSE.txt",
     "static/media/icon.081a5d9a.svg": "/govern.dev.sarcophagus.io/static/media/icon.081a5d9a.svg",
     "static/media/logo.46d0239c.png": "/govern.dev.sarcophagus.io/static/media/logo.46d0239c.png",
     "static/media/index.css": "/govern.dev.sarcophagus.io/static/media/roboto-mono-v12-latin-regular.535bc89d.woff2",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.a846fdfb.js",
     "static/css/2.8408bc14.chunk.css",
-    "static/js/2.e1f1edfb.chunk.js",
+    "static/js/2.f3a6bb0f.chunk.js",
     "static/css/main.18904562.chunk.css",
-    "static/js/main.c15ca325.chunk.js"
+    "static/js/main.e34aad1a.chunk.js"
   ]
 }
